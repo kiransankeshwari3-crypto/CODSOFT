@@ -5,7 +5,7 @@ This repository contains all the tasks completed as part of the CodSoft Tech Int
 ## Tasks
 
 ### Task 1: Titanic Survival Prediction
-- Machine Learning project to predict passenger survival
+- DataScience project to predict passenger survival
 - Language: Python
 - Dataset: Titanic CSV
 
