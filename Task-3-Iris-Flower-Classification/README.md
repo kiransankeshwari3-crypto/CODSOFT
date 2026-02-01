@@ -1,7 +1,7 @@
 # Iris Flower Classification
 
 ## Project Overview
-This project builds a machine learning model to classify Iris flowers into
+This project builds a Data science model to classify Iris flowers into
 Setosa, Versicolor, and Virginica based on sepal and petal measurements.
 
 ## Technologies Used
